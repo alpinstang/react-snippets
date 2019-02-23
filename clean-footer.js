@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Link from 'react-router-dom';
 import { Col, Container, Row, Footer } from 'mdbreact'; // see https://mdbootstrap.com/docs/react/
 
 class Footer extends Component {
