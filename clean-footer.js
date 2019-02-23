@@ -18,7 +18,7 @@ class Footer extends Component {
                     </Row>
                     <Row>
                         <Col sm="6">
-                            <h5 className="title>Business</h5>
+                            <h5 className="title">Business</h5>
                             <p>Your disruptive technology / great idea description here.</p>
                         </Col>
                         <Col sm="6">
